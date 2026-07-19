@@ -2,7 +2,7 @@
 
 An experimental traffic layer for [slowroads.io](https://slowroads.io/), written as a userscript and tested only with Tampermonkey.
 
-I love Slow Roads. It is one of those rare browser games that quietly sits in the background while I am thinking through hard problems. I often keep it open while making complex decisions, almost like a moving whiteboard. The official demo that has traffic was not available to me on macOS, so I wanted to explore what it would take to place convincing ambient traffic into the live game from the outside.
+I love Slow Roads. It is one of those rare browser games that quietly sits in the background while I am thinking through hard problems. I often keep it open while making complex decisions. The official demo that has traffic was not available to me on macOS, so I wanted to explore what it would take to place convincing ambient traffic into the live game from the outside.
 
 This project is educational. It is not an official Slow Roads feature, not affiliated with the Slow Roads developer, and not meant to compete with the original game. It is a study of how traffic can be approximated when the only surface available is the rendered scene. If anything here is useful to the real game, the ideas are free to replicate properly inside the engine.
 
